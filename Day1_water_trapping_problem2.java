@@ -1,5 +1,5 @@
 
-public class Day1_water_trapping_problem {
+public class Day1_water_trapping_problem2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
