@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 91c9acf56db2151e9c404f54988558b2d340e4cf
 public class Day3SearchinRotatedSortedArray {
 
 	public static void main(String[] args) {
